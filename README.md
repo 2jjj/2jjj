@@ -1,7 +1,7 @@
 ### 👾
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-Hobbies:
+<br>Hobbies:
 - play guitar
 - find bugs
 - play rocket league and minecraft xd
