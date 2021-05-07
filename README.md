@@ -1,4 +1,4 @@
-### 👾<br>
+### 👾 Hi!<br>
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 <br><br>Hobbies:
