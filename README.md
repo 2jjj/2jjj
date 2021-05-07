@@ -1,6 +1,10 @@
 ### 👾
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+Hobbies:
+- play guitar
+- find bugs
+- play rocket league and minecraft xd
 
 - 🔭 I’m currently working on [Resolute](http://spr4y.xyz/resolute)
 - 📚 I’m currently learning about Java, Javascript, GoLang
