@@ -4,7 +4,7 @@
 
 <a href="https://discord.com/users/836345581424738354"><img src="https://img.shields.io/badge/-@Spray%230007-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
----@Spray%239903
+---
 
 🔭 I’m currently working on [Resolute](resolutebot.xyz)<br>
 📚 I’m currently learning about Java, Javascript, GoLang & Api's<br>
