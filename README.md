@@ -2,7 +2,7 @@
 
 <p>I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</p>
 
-<a href="https://discord.com/users/836345581424738354"><img src="https://img.shields.io/badge/-@Spray%230007-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
+<a href="https://discord.com/users/836345581424738354"><img src="https://img.shields.io/badge/-@pxdro cansado%230007-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
 ---
 
