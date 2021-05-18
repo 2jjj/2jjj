@@ -7,4 +7,4 @@
 ---
 
 🔭 I’m currently working on [Resolute](https://resolutebot.xyz)<br>
-📚 I’m currently learning about Java, Javascript, GoLang & Api's<br>
+📚 I’m currently learning about Java, Design, Front-End<br>
