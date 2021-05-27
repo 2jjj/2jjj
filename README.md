@@ -1,7 +1,7 @@
 ### 👾 Hi!<br>
 
 <p>I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</p><br>
-<pDiscord:</p>
+<p>Discord:</p>
 
 ![](https://discord.c99.nl/widget/theme-1/836345581424738354.png)
 ---
