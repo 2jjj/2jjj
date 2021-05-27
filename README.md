@@ -6,4 +6,4 @@
 ---
 
 🔭 I’m currently working on [Resolute](https://resolutebot.xyz)<br>
-📚 I’m currently learning about Java, Design, Front-End<br>
+📚 I’m currently learning about Java, Front-End<br>
