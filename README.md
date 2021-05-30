@@ -1,4 +1,3 @@
-### Programador Freelancer<br>
 
 <p>Discord:</p>
 
