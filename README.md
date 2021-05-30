@@ -4,4 +4,4 @@
 ---
 
 🔭 I’m currently working on [Resolute](https://resolutebot.xyz)<br>
-📚 I’m currently learning about Java, Front-End<br>
+📚 I’m currently learning Front-End<br>
