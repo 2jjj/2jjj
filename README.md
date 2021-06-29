@@ -2,7 +2,7 @@
     <br>
     <samp>
         Olá, eu me chamo Pedro</b>
-        <br>Estou estudando <b>Kotlin/React/Java</b>
+        <br>Estou estudando sobre <b>Kotlin/React/Java</b>
         <br>
     </samp>
     <img align="middle"
