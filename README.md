@@ -1,7 +1,7 @@
 <p align="center">
     <br>
     <samp>
-        Olá, eu me chamo Pedro\n</b>
+        Olá, eu me chamo Pedro</b>\n
         <br>
     </samp>
     <img align="middle"
