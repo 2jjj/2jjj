@@ -1,8 +1,5 @@
 <p align="center">
     <br>
-    <samp>
-        Olá, eu me chamo Pedro</b><br>
-        <br>
     </samp>
     <img align="middle"
         src="https://github-readme-stats.vercel.app/api?username=sprayx&show_icons=true&theme=synthwave&hide_title=true" />
