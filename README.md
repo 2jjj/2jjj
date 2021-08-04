@@ -1,4 +1,5 @@
 <p align="center">
+    <p> Gosto de: Golang, javascript, java </p>
     <br>
     </samp>
     <img align="middle"
