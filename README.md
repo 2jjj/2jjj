@@ -9,6 +9,7 @@
     <summary> <b> <samp> Most used languanges </samp></b></summary>
     <samp>
         <img align="middle"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprayx&hide_title=true&layout=compact" />
     </samp>
 </details>
 
