@@ -1,18 +1,16 @@
 # Hi 👋, I'm Pedro Sakamoto
 
-### Desenvolvedor
+### Full-stack developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2jjj" alt="2jjj" /></a> </p>
+- 🔭 I'm currently working on **Web development projects focused on performance, clean architecture, and scalability.**
 
-- 🔭 I'm currently working on **projects**
+- 🌱 I'm currently learning **MongoDB, React, and Next.js — building modern, fast, and reliable applications.**
 
-- 🌱 I'm currently learning **MongoDB, React, NextJS**
+- 👯 I'm looking to collaborate on **Tech projects, digital products, and business-focused development.**
 
-- 👯 I'm looking to collaborate on **business**
+- 🤝 I'm looking for help with **Improving design skills and UI/UX best practices.**
 
-- 🤝 I'm looking for help with **learning design**
-
-- 💬 Ask me about **web development, node js, javascript, react**
+- 💬 Ask me about **JavaScript, Node.js, Web Development, APIs, and React.**
 
 - 📫 How to reach me **pedrosakamoto27@gmail.com**
 
