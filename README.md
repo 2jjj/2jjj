@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for help with **Improving design skills and UI/UX best practices.**
 
-- 💬 Ask me about **JavaScript, Node.js, Web Development, APIs, and React.**
+- 💬 Ask me about **JavaScript, Node.js, Web Development, APIs, Supabase and React.**
 
 - 📫 How to reach me **pedrosakamoto27@gmail.com**
 
