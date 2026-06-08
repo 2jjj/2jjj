@@ -8,7 +8,7 @@
   <a href="https://github.com/2jjj">GitHub</a> ·
   <a href="https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/">LinkedIn</a> ·
   <a href="mailto:pedrosakamoto27@gmail.com">Email</a> ·
-  <a href="https://pedrosakamoto.dev">Portfolio</a>
+  <a href="https://pedrosakamoto.com.br">Portfolio</a>
 </p>
 
 ---
