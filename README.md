@@ -95,13 +95,6 @@ API escalável que expõe informações detalhadas sobre usuários e servidores 
 
 ---
 
-### [Status Correios](https://github.com/2jjj/greve)
-Site simples que verifica em tempo real se os Correios estão em greve ou não.
-
-> `React` `Vite`
-
----
-
 ## Empreendedorismo
 
 Além do desenvolvimento de software, sou empreendedor há **2 anos** à frente de uma **loja de artigos high-end**. Essa experiência me deu:
