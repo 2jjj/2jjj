@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Sakamoto</h1>
 
 <p align="center">
-  <strong>Back-End Developer</strong> · Node.js · APIs · Databases
+  <strong>Back-End Developer</strong> · Node.js · APIs · Databases · AI Integration
 </p>
 
 <p align="center">
@@ -21,7 +21,22 @@ Comecei a programar aos 13 anos e fui direto pra prática — meu primeiro proje
 
 Hoje meu foco é back-end: arquitetura de APIs, banco de dados, autenticação e infraestrutura. Tenho noção de front-end suficiente pra colaborar em projetos full stack, mas onde eu realmente entrego valor é no servidor.
 
-Atualmente aprofundando conhecimentos em **Docker** e containerização.
+Além do desenvolvimento, sou **empreendedor há 2 anos**: sou dono de uma **loja de artigos high-end**, o que me trouxe visão de negócio, gestão e entendimento do que software precisa entregar de verdade no mundo real.
+
+Atualmente aprofundando conhecimentos em **Docker**, containerização e **inteligência artificial aplicada ao desenvolvimento**.
+
+---
+
+## Experiência com Inteligência Artificial
+
+Trabalho ativamente com IA no meu dia a dia de desenvolvimento:
+
+- **Claude Code** — utilizo o Claude Code como ferramenta principal de desenvolvimento assistido por IA, acelerando ciclos de build, revisão de código e arquitetura de sistemas
+- **Integração com APIs de IA** — experiência prática integrando modelos de linguagem (LLMs) em aplicações back-end via API
+- **Automação com IA** — uso de IA para otimizar fluxos de trabalho, geração de código, debugging e documentação técnica
+- **Prompt engineering** — conhecimento aplicado em como estruturar prompts para obter resultados consistentes em contextos de desenvolvimento
+
+> A IA não substitui o raciocínio técnico — ela amplifica. Sei quando usar e como usar.
 
 ---
 
@@ -44,6 +59,11 @@ Atualmente aprofundando conhecimentos em **Docker** e containerização.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Inteligência Artificial**
+
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
+![AI APIs](https://img.shields.io/badge/AI_APIs_(LLMs)-412991?style=flat&logo=openai&logoColor=white)
 
 **Front-End (básico)**
 
@@ -79,6 +99,18 @@ API escalável que expõe informações detalhadas sobre usuários e servidores 
 Site simples que verifica em tempo real se os Correios estão em greve ou não.
 
 > `React` `Vite`
+
+---
+
+## Empreendedorismo
+
+Além do desenvolvimento de software, sou empreendedor há **2 anos** à frente de uma **loja de artigos high-end**. Essa experiência me deu:
+
+- Visão de negócio e entendimento de métricas que importam
+- Gestão de operações, estoque e relacionamento com clientes exigentes
+- Perspectiva real sobre o que software precisa entregar para gerar valor
+
+Desenvolver e empreender em paralelo me faz um desenvolvedor mais completo — entendo o lado técnico e o lado do negócio.
 
 ---
 
