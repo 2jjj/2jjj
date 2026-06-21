@@ -15,15 +15,7 @@
 
 ## Sobre mim
 
-Desenvolvedor back-end com 4 anos de experiência, especializado em construir APIs robustas, sistemas escaláveis e integrações com plataformas externas.
-
-Comecei a programar aos 13 anos e fui direto pra prática — meu primeiro projeto real foi um bot para Discord que chegou a rodar em mais de **1.000 servidores verificados**, com sistemas completos de moderação, economia e entretenimento.
-
-Hoje meu foco é back-end: arquitetura de APIs, banco de dados, autenticação e infraestrutura. Tenho noção de front-end suficiente pra colaborar em projetos full stack, mas onde eu realmente entrego valor é no servidor.
-
-Além do desenvolvimento, sou **empreendedor há 2 anos**: sou dono de uma **loja de artigos high-end**, o que me trouxe visão de negócio, gestão e entendimento do que software precisa entregar de verdade no mundo real.
-
-Atualmente aprofundando conhecimentos em **Docker**, containerização e **inteligência artificial aplicada ao desenvolvimento**.
+Comecei a programar aos 13 anos — meu primeiro projeto real foi um bot para Discord que chegou a rodar em mais de **1.000 servidores verificados**, com sistemas completos de moderação, economia e entretenimento.
 
 ---
 
