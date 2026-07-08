@@ -67,4 +67,3 @@ Empreendedor há 2 anos à frente de uma loja de artigos high-end — experiênc
 
 Aberto a oportunidades front-end / full-stack, remoto ou presencial.
 📍 Ribeirão Preto, SP · Disponibilidade imediata
-</file_text>
