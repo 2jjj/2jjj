@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Sakamoto</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · React · Bancos de dados
+  <strong>Full-Stack Developer</strong> · React · Bancos de Dados
 </p>
 
 <p align="center">
@@ -11,11 +11,13 @@
   <a href="https://pedrosakamoto.com.br">Portfólio</a>
 </p>
 
----
+<br>
 
 ### Sobre
 
-Desenvolvedor com base sólida em **React** e **bancos de dados**, construindo aplicações web modernas e funcionais. Tenho experiência de back-end por meio de bots — principalmente para Discord — e hoje me aprofundo em back-end mais complexo com **Node.js**, **Go** e **Docker**.
+Desenvolvedor front-end com base sólida em **React** e **bancos de dados**. Experiência prática em back-end construindo bots para Discord, hoje aprofundando em **Node.js**, **Go**, **Docker** e **Java Spring**.
+
+<br>
 
 ### Stack
 
@@ -38,23 +40,31 @@ Desenvolvedor com base sólida em **React** e **bancos de dados**, construindo a
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+<br>
 
 ### Projetos
 
-**[Resolute](https://github.com/2jjj/resolute)** — Bot de Discord verificado, presente em **1.000+ servidores**, com módulos de moderação, economia e entretenimento.
+**[Resolute](https://github.com/2jjj/resolute)** — Bot de Discord ativo em **1.000+ servidores**, com módulos de moderação, economia e entretenimento.
 `Node.js` `MongoDB`
 
-**ImportFlow** — Plataforma de gestão de custos de importação que calcula a margem real de lucro considerando impostos, frete e taxas.
+**ImportFlow** — Plataforma de gestão de custos de importação, calculando a margem real de lucro considerando impostos, frete e taxas.
 `React` `TypeScript` `Supabase`
 
-**[API Fetch Discord Info](https://github.com/2jjj/fetch_discord_info_site)** — API REST que expõe informações de usuários e servidores do Discord.
+**[API Fetch Discord Info](https://github.com/2jjj/fetch_discord_info_site)** — API REST para consulta de informações de usuários e servidores do Discord.
 `Node.js` `Express`
+
+<br>
 
 ### Além do código
 
-Empreendedor há 2 anos à frente de uma loja de artigos high-end — visão de negócio, operação e métricas, além do técnico.
+Empreendedor há 2 anos à frente de uma loja de artigos high-end — experiência em operação, métricas e visão de negócio.
+
+<br>
 
 ### Contato
 
-Aberto a oportunidades **front-end / full-stack**, remoto ou presencial.
+Aberto a oportunidades front-end / full-stack, remoto ou presencial.
 📍 Ribeirão Preto, SP · Disponibilidade imediata
+</file_text>
