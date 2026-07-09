@@ -51,10 +51,8 @@ Desenvolvedor front-end com base sólida em **React** e **bancos de dados**. Exp
 `Node.js` `MongoDB`
 
 **ImportFlow** — Plataforma de gestão de custos de importação, calculando a margem real de lucro considerando impostos, frete e taxas.
-`React` `TypeScript` `Supabase`
+`React` `TypeScript` `Supabase` open source em breve ele esta sendo terminado
 
-**[API Fetch Discord Info](https://github.com/2jjj/fetch_discord_info_site)** — API REST para consulta de informações de usuários e servidores do Discord.
-`Node.js` `Express`
 
 <br>
 
