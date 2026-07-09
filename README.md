@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Sakamoto</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · React · Bancos de Dados
+  <strong>Software Engineer</strong>
 </p>
 
 <p align="center">
