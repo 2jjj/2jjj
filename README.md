@@ -58,12 +58,10 @@ Desenvolvedor front-end com base sólida em **React** e **bancos de dados**. Exp
 
 ### Além do código
 
-Empreendedor há 2 anos à frente de uma loja de artigos high-end — experiência em operação, métricas e visão de negócio.
+Empreendedor há 3 anos à frente de uma loja de artigos high-end, revendendo artigos de luxo, como roupas, tenis e etc 
 
 <br>
 
 ### Contato
-<file_text>
 Aberto a oportunidades front-end / full-stack, remoto ou presencial.
 📍 Ribeirão Preto, SP · Disponibilidade imediata
-</file_text>
