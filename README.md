@@ -11,8 +11,6 @@
   <a href="https://pedrosakamoto.com.br">Portfólio</a>
 </p>
 
-<br>
-
 ### Sobre
 
 Desenvolvedor front-end com base sólida em **React** e **bancos de dados**. Experiência prática em back-end construindo bots para Discord, hoje aprofundando em **Node.js**, **Go**, **Docker** e **Java Spring**.
