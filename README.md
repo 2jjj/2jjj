@@ -54,13 +54,10 @@ Desenvolvedor front-end com base sólida em **React** e **bancos de dados**. Exp
 `React` `TypeScript` `Supabase` open source em breve ele esta sendo terminado
 
 
-<br>
-
 ### Além do código
 
 Empreendedor há 3 anos à frente de uma loja de artigos high-end, revendendo artigos de luxo, como roupas, tenis e etc 
 
-<br>
 
 ### Contato
 Aberto a oportunidades front-end / full-stack, remoto ou presencial.
