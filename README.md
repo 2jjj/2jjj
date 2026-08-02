@@ -1,5 +1,4 @@
 <h1 align="center">Pedro Sakamoto</h1>
-
 <p align="center">
   <strong>Software Engineer</strong>
 </p>
@@ -11,9 +10,11 @@
   <a href="https://pedrosakamoto.site">Portfólio</a>
 </p>
 
+<br>
+
 ### Sobre
 
-Desenvolvedor front-end com base sólida em **React** e **bancos de dados**. Experiência prática em back-end construindo bots para Discord, hoje aprofundando em **Node.js**, **Go**, **Docker** e **Java Spring**.
+Desenvolvedor front-end com base sólida em **React** e bancos de dados relacionais e não-relacionais. Tenho experiência prática em back-end construindo bots para Discord e, atualmente, estou aprofundando conhecimentos em **Node.js**, **Go**, **Docker** e **Java Spring** para atuar como full-stack.
 
 <br>
 
@@ -45,18 +46,24 @@ Desenvolvedor front-end com base sólida em **React** e **bancos de dados**. Exp
 
 ### Projetos
 
-**[Resolute](https://github.com/2jjj/resolute)** — Bot de Discord ativo em **1.000+ servidores**, com módulos de moderação, economia e entretenimento.
+**[Resolute](https://github.com/2jjj/resolute)**
+Bot de Discord ativo em **1.000+ servidores**, com módulos de moderação, economia e entretenimento.
 `Node.js` `MongoDB`
 
-**ImportFlow** — Plataforma de gestão de custos de importação, calculando a margem real de lucro considerando impostos, frete e taxas.
-`React` `TypeScript` `Supabase` open source em breve ele esta sendo terminado
+**ImportFlow**
+Plataforma de gestão de custos de importação, que calcula a margem real de lucro considerando impostos, frete e taxas. Em fase final de desenvolvimento — código aberto em breve.
+`React` `TypeScript` `Supabase`
 
+<br>
 
 ### Além do código
 
-Empreendedor há 3 anos à frente de uma loja de artigos high-end, revendendo artigos de luxo, como roupas, tenis e etc 
+Empreendedor há 3 anos à frente de uma loja de artigos de alto padrão, revendendo peças de luxo como roupas, tênis e acessórios.
 
+<br>
 
 ### Contato
+
 Aberto a oportunidades front-end / full-stack, remoto ou presencial.
+
 📍 Ribeirão Preto, SP · Disponibilidade imediata
