@@ -46,13 +46,39 @@ Desenvolvedor front-end com base sólida em **React** e bancos de dados relacion
 
 ### Projetos
 
+**Produtividade & IA**
+
+**[detoxdigital](https://github.com/2jjj/detoxdigital)**
+Backend em **Spring Boot** integrado a uma extensão de Chrome que monitora o tempo gasto em sites distrativos e avisa na hora de voltar ao foco.
+`Java` `Spring Boot`
+
+**[FinTrack](https://github.com/2jjj/FinTrack)**
+Sistema de gerenciamento de gastos com apoio de IA.
+`TypeScript`
+
+**ImportFlow**
+Plataforma de gestão de custos de importação, calculando a margem real de lucro considerando impostos, frete e taxas. Em fase final de desenvolvimento — código aberto em breve.
+`React` `TypeScript` `Supabase`
+
+**Bots & automação**
+
 **[Resolute](https://github.com/2jjj/resolute)**
 Bot de Discord ativo em **1.000+ servidores**, com módulos de moderação, economia e entretenimento.
 `Node.js` `MongoDB`
 
-**ImportFlow**
-Plataforma de gestão de custos de importação, que calcula a margem real de lucro considerando impostos, frete e taxas. Em fase final de desenvolvimento — código aberto em breve.
-`React` `TypeScript` `Supabase`
+**[goprices](https://github.com/2jjj/goprices)**
+Bot monitorador de preços no Discord.
+`Go`
+
+**[scraper](https://github.com/2jjj/scraper)**
+Scraper de badges de usuários de um servidor específico.
+`Python`
+
+**Dados & exploração**
+
+**[graficos-precos](https://github.com/2jjj/graficos-precos)**
+Plotagem e análise de preços de celulares.
+`Jupyter Notebook`
 
 <br>
 
