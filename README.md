@@ -28,6 +28,7 @@
 - 🗄️ **Back-end:** Node.js, Go, Java (Spring Boot)
 - 🧠 **IA:** Aplicações inteligentes com integração de modelos de linguagem
 - 🤖 **Bots:** Já construí bots para Discord com **1.000+ servidores ativos**
+- 🔬 **Baixo nível:** Reverse engineering de binários, análise de PE, criptografia (AES-GCM/XOR), binary forensics. Já **descriptografei tudo** que jurei que era indecifrável.
 - 🐳 **DevOps:** Docker e boas práticas de deploy
 
 ## 🛠️ Stack
@@ -56,6 +57,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Baixo nível & Segurança
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-AES%2FGCM-005C37?style=for-the-badge&logo=cryptography&logoColor=white)
+
+## 🔬 Reverse Engineering & Criptografia
+
+> **reverselab** — toolkit que eu reúno uma string por vez. Strings de binário, infos de PE com **entropia por seção**, decrypt **AES-256-GCM** e **XOR**, e `--raw-eval` pra achar payload escondida em 2 segundos (entropia > 7.2 = é segredo).
+
+```bash
+python reverselab.py oq_quiser.exe --pe          # seções, entrypoint, entropia
+python reverselab.py hold.bin --aesgcm ct key    # down na payload
+python reverselab.py verify.bin --raw-eval       # acha o blob escondido
+```
+
+Meu fluxo: `achar o blob → medir entropia → sniffar nonce/key → AES/XOR down → payload limpo nas mãos.` Já resolvi config de app, payload oculta, token offuscado, cookie de browser e senha de cofre de terceiro. Esse kit é a **página 1** do caderno. 🐀
 
 ## 📊 GitHub Stats
 
@@ -92,6 +110,12 @@
 |---------|-----------|-------|
 | [**graficos-precos**](https://github.com/2jjj/graficos-precos) | Plotagem e análise de preços de celulares | 📓 Jupyter Notebook |
 
+### Dados & Baixo nível
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**reverselab**](https://github.com/2jjj/reverselab) | Reverse engineering toolkit — strings, PE analysis, AES-GCM/XOR decrypt | 🐍 Python |
+
 ## 🌐 Além do código
 
 > 💼 Empreendedor há **3 anos** à frente de uma loja de artigos de alto padrão, revendendo peças de luxo como roupas, tênis e acessórios.
@@ -124,6 +148,8 @@ Aberto a oportunidades **front-end / full-stack**, remoto ou presencial.
 
 <div align="center">
   <sub>⚡ Feito com 💜 por Pedro Sakamoto</sub>
+  <br>
+  <sub>E sim, eu sou pika. Não existe bug (nem binário) que eu não faça escorrer. 🐀</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,18&height=120&section=footer" width="100%" alt="footer" />
