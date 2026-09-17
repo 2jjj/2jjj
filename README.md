@@ -7,7 +7,7 @@
 
 ### Desenvolvedor Full Stack & Engenheiro de IA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Go+%7C+Java;Discord+Bots+Developer;Empreendedor+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Go+%7C+Java;Security+%26+Reverse+Engineering;Empreendedor+)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/2jjj?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/2jjj)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosakamoto27@gmail.com)
@@ -28,7 +28,7 @@
 - 🗄️ **Back-end:** Node.js, Go, Java (Spring Boot)
 - 🧠 **IA:** Aplicações inteligentes com integração de modelos de linguagem
 - 🤖 **Bots:** Já construí bots para Discord com **1.000+ servidores ativos**
-- 🔬 **Baixo nível:** Reverse engineering de binários, análise de PE, criptografia (AES-GCM/XOR), binary forensics. Já **descriptografei tudo** que jurei que era indecifrável.
+- 🔬 **Segurança:** Engenharia reversa de binários, análise de PE, criptografia aplicada (AES-GCM/XOR) e forense de arquivos
 - 🐳 **DevOps:** Docker e boas práticas de deploy
 
 ## 🛠️ Stack
@@ -58,22 +58,22 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Baixo nível & Segurança
+### Segurança & Baixo nível
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-AES%2FGCM-005C37?style=for-the-badge&logo=cryptography&logoColor=white)
 
-## 🔬 Reverse Engineering & Criptografia
+## 🔬 Segurança & Engenharia Reversa
 
-> **reverselab** — toolkit que eu reúno uma string por vez. Strings de binário, infos de PE com **entropia por seção**, decrypt **AES-256-GCM** e **XOR**, e `--raw-eval` pra achar payload escondida em 2 segundos (entropia > 7.2 = é segredo).
+> **reverselab** — toolkit de análise de binários: strings, infos de PE com **entropia por seção**, decrypt **AES-256-GCM** e **XOR**, e `--raw-eval` pra localizar blobs de alta entropia.
 
 ```bash
-python reverselab.py oq_quiser.exe --pe          # seções, entrypoint, entropia
-python reverselab.py hold.bin --aesgcm ct key    # down na payload
-python reverselab.py verify.bin --raw-eval       # acha o blob escondido
+python reverselab.py alvo.exe --pe          # seções, entrypoint, entropia
+python reverselab.py blob.bin --aesgcm ct key
+python reverselab.py verify.bin --raw-eval
 ```
 
-Meu fluxo: `achar o blob → medir entropia → sniffar nonce/key → AES/XOR down → payload limpo nas mãos.` Já resolvi config de app, payload oculta, token offuscado, cookie de browser e senha de cofre de terceiro. Esse kit é a **página 1** do caderno. 🐀
+Fluxo de análise: `localizar o blob → medir entropia → identificar nonce/key → AES/XOR → payload limpo`. Uso pra análise de malware, CTF e auditoria de software.
 
 ## 📊 GitHub Stats
 
@@ -87,6 +87,14 @@ Meu fluxo: `achar o blob → medir entropia → sniffar nonce/key → AES/XOR do
 </p>
 
 ## 🚀 Projetos em destaque
+
+### Bibliotecas & Ferramentas
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**gofetch**](https://github.com/2jjj/gofetch) | Cliente HTTP em Go, zero dependências, com retry, backoff exponencial e rate limit | 🟦 Go |
+| [**prism**](https://github.com/2jjj/prism) | Extrai a paleta dominante de uma imagem e exporta em hex, JSON, CSS ou Tailwind | 🐍 Python |
+| [**use-debounce**](https://github.com/2jjj/use-debounce) | Hooks React: debounce, throttle, debounced callback, interval e timeout | 🟦 TypeScript |
 
 ### Produtividade & IA
 
@@ -104,16 +112,11 @@ Meu fluxo: `achar o blob → medir entropia → sniffar nonce/key → AES/XOR do
 | [**goprices**](https://github.com/2jjj/goprices) | Bot monitorador de preços no Discord | 🟦 Go |
 | [**scraper**](https://github.com/2jjj/scraper) | Scraper de badges de usuários de um servidor específico | 🐍 Python |
 
-### Dados & Exploração
+### Dados & Segurança
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [**graficos-precos**](https://github.com/2jjj/graficos-precos) | Plotagem e análise de preços de celulares | 📓 Jupyter Notebook |
-
-### Dados & Baixo nível
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
 | [**reverselab**](https://github.com/2jjj/reverselab) | Reverse engineering toolkit — strings, PE analysis, AES-GCM/XOR decrypt | 🐍 Python |
 
 ## 🌐 Além do código
@@ -148,8 +151,6 @@ Aberto a oportunidades **front-end / full-stack**, remoto ou presencial.
 
 <div align="center">
   <sub>⚡ Feito com 💜 por Pedro Sakamoto</sub>
-  <br>
-  <sub>E sim, eu sou pika. Não existe bug (nem binário) que eu não faça escorrer. 🐀</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,18&height=120&section=footer" width="100%" alt="footer" />
