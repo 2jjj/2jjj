@@ -3,12 +3,13 @@
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,18&height=200&section=header&text=Pedro%20Sakamoto&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
 
-# 👋 Olá, eu sou o Pedro!
+# 👋 Olá, eu sou o Pedro
 
-### Desenvolvedor Full Stack & Engenheiro de IA
+### Full Stack Developer · AI Engineer · Security & Reverse Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Go+%7C+Java;Security+%26+Reverse+Engineering;Empreendedor+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Go+%7C+Java;Security+%26+Reverse+Engineering;Empreendedor)](https://git.io/typing-svg)
 
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-remoto%20ou%20presencial-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](#-contato)
 [![GitHub followers](https://img.shields.io/github/followers/2jjj?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/2jjj)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosakamoto27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/)
@@ -16,112 +17,100 @@
 
 <img src="https://komarev.com/ghpvc/?username=2jjj&color=8A2BE2&style=for-the-badge&label=VISITANTES" alt="profile views" />
 
----
-
 </div>
 
-## 🧑‍💻 Sobre mim
+---
 
-> Desenvolvedor **Full Stack** e **Engenheiro de IA** apaixonado por criar soluções que unem **produtividade** e **automação**.
+## 🖥️ `whoami`
 
-- 🚀 **Front-end:** React, Next.js, TypeScript, Tailwind CSS
-- 🗄️ **Back-end:** Node.js, Go, Java (Spring Boot)
-- 🧠 **IA:** Aplicações inteligentes com integração de modelos de linguagem
-- 🤖 **Bots:** Já construí bots para Discord com **1.000+ servidores ativos**
-- 🔬 **Segurança:** Engenharia reversa de binários, análise de PE, criptografia aplicada (AES-GCM/XOR) e forense de arquivos
-- 🐳 **DevOps:** Docker e boas práticas de deploy
+```bash
+$ whoami
+pedro sakamoto  ·  full stack dev & engenheiro de IA  ·  ribeirão preto, br
+
+$ cat skills.json
+{
+  "frontend": ["React", "Next.js", "TypeScript", "Tailwind", "Vite"],
+  "backend":  ["Node.js", "Go", "Java (Spring Boot)"],
+  "data":     ["PostgreSQL", "MongoDB", "Supabase"],
+  "ai":       ["LLMs", "automação inteligente", "integração de modelos"],
+  "security": ["reverse engineering", "PE analysis", "AES-GCM/XOR", "forense"],
+  "devops":   ["Docker", "CI/CD", "Git"]
+}
+
+$ status --verbose
+[✓] empreendedor há 3 anos (loja de artigos de alto padrão)
+[✓] bots em 1.000+ servidores no Discord
+[✓] disponibilidade imediata · aberto a oportunidades
+
+$ _
+```
 
 ## 🛠️ Stack
 
-### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<div align="center">
 
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,go,java,spring,postgres,mongodb,docker,git,py,linux,bash" alt="stack" />
 
-### Bancos de dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+</div>
 
-### DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🚀 Projetos em destaque
 
-### Segurança & Baixo nível
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-AES%2FGCM-005C37?style=for-the-badge&logo=cryptography&logoColor=white)
+### 🧩 Bibliotecas & Ferramentas
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**gofetch**](https://github.com/2jjj/gofetch) | Cliente HTTP em Go, zero dependências, com retry, backoff exponencial e rate limit | `Go` |
+| [**prism**](https://github.com/2jjj/prism) | Extrai a paleta dominante de uma imagem e exporta em hex, JSON, CSS ou Tailwind | `Python` |
+| [**use-debounce**](https://github.com/2jjj/use-debounce) | Hooks React: debounce, throttle, debounced callback, interval e timeout | `TypeScript` |
+
+### ⚡ Produtividade & IA
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**detoxdigital**](https://github.com/2jjj/detoxdigital) | Backend Spring Boot + extensão Chrome que monitora tempo em sites distrativos e devolve o foco | `Java` `Spring Boot` |
+| [**FinTrack**](https://github.com/2jjj/FinTrack) | Sistema de gerenciamento de gastos com apoio de IA | `TypeScript` |
+| [**importflow**](https://github.com/2jjj/importflow) | Gestão de custos de importação com margem real de lucro (impostos, frete, taxas) | `React` `Supabase` |
+
+### 🤖 Bots & Automação
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**resolute**](https://github.com/2jjj/resolute) | Bot de Discord ativo em 1.000+ servidores (moderação, economia, entretenimento) | `Node.js` `MongoDB` |
+| [**goprices**](https://github.com/2jjj/goprices) | Bot monitorador de preços no Discord | `Go` |
+| [**scraper**](https://github.com/2jjj/scraper) | Scraper de badges de usuários de um servidor | `Python` |
+
+### 🔬 Dados & Segurança
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**graficos-precos**](https://github.com/2jjj/graficos-precos) | Plotagem e análise de preços de celulares | `Jupyter` |
+| [**reverselab**](https://github.com/2jjj/reverselab) | Reverse engineering toolkit — strings, PE analysis, AES-GCM/XOR decrypt | `Python` |
 
 ## 🔬 Segurança & Engenharia Reversa
 
 > **reverselab** — toolkit de análise de binários: strings, infos de PE com **entropia por seção**, decrypt **AES-256-GCM** e **XOR**, e `--raw-eval` pra localizar blobs de alta entropia.
 
 ```bash
-python reverselab.py alvo.exe --pe          # seções, entrypoint, entropia
-python reverselab.py blob.bin --aesgcm ct key
-python reverselab.py verify.bin --raw-eval
+python reverselab.py alvo.exe --pe            # seções, entrypoint, entropia
+python reverselab.py blob.bin --aesgcm ct key # decrypt AES-256-GCM
+python reverselab.py verify.bin --raw-eval    # localiza blob escondido
 ```
 
-Fluxo de análise: `localizar o blob → medir entropia → identificar nonce/key → AES/XOR → payload limpo`. Uso pra análise de malware, CTF e auditoria de software.
+Fluxo: `localizar o blob → medir entropia → identificar nonce/key → AES/XOR → payload limpo`. Aplico em análise de malware, CTF e auditoria de software.
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2jjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2jjj&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2jjj&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+<img height="165em" src="https://github-readme-stats-one.vercel.app/api?username=2jjj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=2jjj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-## 🚀 Projetos em destaque
+<img src="https://streak-stats.demolab.com?user=2jjj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-### Bibliotecas & Ferramentas
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2jjj&theme=tokyonight" alt="Repos por linguagem" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2jjj&theme=tokyonight&utcOffset=-3" alt="Horário produtivo" />
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**gofetch**](https://github.com/2jjj/gofetch) | Cliente HTTP em Go, zero dependências, com retry, backoff exponencial e rate limit | 🟦 Go |
-| [**prism**](https://github.com/2jjj/prism) | Extrai a paleta dominante de uma imagem e exporta em hex, JSON, CSS ou Tailwind | 🐍 Python |
-| [**use-debounce**](https://github.com/2jjj/use-debounce) | Hooks React: debounce, throttle, debounced callback, interval e timeout | 🟦 TypeScript |
-
-### Produtividade & IA
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**detoxdigital**](https://github.com/2jjj/detoxdigital) | Sistema que combina backend Spring Boot com extensão Chrome para monitorar tempo gasto em sites distrativos e avisar quando voltar ao foco | 🟨 Java, Spring Boot |
-| [**FinTrack**](https://github.com/2jjj/FinTrack) | Sistema de gerenciamento de gastos com apoio de IA | 🟦 TypeScript |
-| [**importflow**](https://github.com/2jjj/importflow) | Plataforma de gestão de custos de importação, calculando a margem real de lucro com impostos, frete e taxas | 🟦 React, TypeScript, Supabase |
-
-### Bots & Automação
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**resolute**](https://github.com/2jjj/resolute) | Bot de Discord ativo em 1.000+ servidores, com módulos de moderação, economia e entretenimento | 🟨 Node.js, MongoDB |
-| [**goprices**](https://github.com/2jjj/goprices) | Bot monitorador de preços no Discord | 🟦 Go |
-| [**scraper**](https://github.com/2jjj/scraper) | Scraper de badges de usuários de um servidor específico | 🐍 Python |
-
-### Dados & Segurança
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**graficos-precos**](https://github.com/2jjj/graficos-precos) | Plotagem e análise de preços de celulares | 📓 Jupyter Notebook |
-| [**reverselab**](https://github.com/2jjj/reverselab) | Reverse engineering toolkit — strings, PE analysis, AES-GCM/XOR decrypt | 🐍 Python |
-
-## 🌐 Além do código
-
-> 💼 Empreendedor há **3 anos** à frente de uma loja de artigos de alto padrão, revendendo peças de luxo como roupas, tênis e acessórios.
+</div>
 
 ## 🐍 Minhas contribuições
 
@@ -133,13 +122,17 @@ Fluxo de análise: `localizar o blob → medir entropia → identificar nonce/ke
   </picture>
 </p>
 
+## 🌐 Além do código
+
+> 💼 Empreendedor há **3 anos** à frente de uma loja de artigos de alto padrão — roupas, tênis e acessórios de luxo. Produto, vendas e tecnologia no mesmo pacote.
+
 ## 📫 Contato
 
 <div align="center">
 
-Aberto a oportunidades **front-end / full-stack**, remoto ou presencial.
+**Aberto a oportunidades front-end / full-stack**, remoto ou presencial.
 
-📍 **Ribeirão Preto, SP** · ⚡ Disponibilidade imediata
+📍 **Ribeirão Preto, SP** · ⚡ **Disponibilidade imediata**
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosakamoto27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/)
