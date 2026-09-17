@@ -1,13 +1,17 @@
 <div align="center">
 
-<!-- Header animado -->
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,18&height=200&section=header&text=Pedro%20Sakamoto&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
 
-# 👋 Olá, eu sou o Pedro
+```console
+root@2jjj:~# whoami
+```
 
-### Full Stack Developer · AI Engineer · Security & Reverse Engineering
+# Pedro Sakamoto
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Go+%7C+Java;Security+%26+Reverse+Engineering;Empreendedor)](https://git.io/typing-svg)
+### `Full Stack Developer` · `AI Engineer` · `Bug Hunter`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=%3E+Full+Stack+Developer;%3E+AI+Engineer;%3E+Bug+Hunter+%26+Security+Researcher;%3E+Reverse+Engineering+%7C+Go+%7C+React;%3E+root%402jjj%3A~%23+open+to+opportunities)](https://git.io/typing-svg)
 
 [![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-remoto%20ou%20presencial-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](#-contato)
 [![GitHub followers](https://img.shields.io/github/followers/2jjj?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/2jjj)
@@ -21,11 +25,15 @@
 
 ---
 
-## 🖥️ `whoami`
+```console
+root@2jjj:~# cat /etc/motd
+```
+
+## 🖥️ Terminal
 
 ```bash
 $ whoami
-pedro sakamoto  ·  full stack dev & engenheiro de IA  ·  ribeirão preto, br
+pedro sakamoto · full stack dev & engenheiro de IA · bug hunter · ribeirão preto, br
 
 $ cat skills.json
 {
@@ -45,13 +53,43 @@ $ status --verbose
 $ _
 ```
 
-## 🛠️ Stack
+## 🔐 Bug Hunting & Security Research
+
+```console
+$ cat ~/notas_de_campo.md
+```
+
+> Caço bugs e fraquezas em **escopo autorizado** — divulgação responsável, CTF e labs próprios.
+> Foco: engenharia reversa, análise de autenticação/sessão, criptografia aplicada e forense.
+
+```bash
+$ ./recon.sh --methodology
+[*] fingerprinting de binários e identificação de empacotadores
+[*] análise de bundles JS e extração de endpoints de API
+[*] mapeamento de fluxos de autenticação e sessão
+[*] entropia por seção, detecção de blobs cifrados
+[*] decrypt AES-256-GCM / XOR e recuperação de payloads
+[*] forense de artefatos: metadados, logs, memória
+[+] disciplina: escopo autorizado, evidência mínima, reporte responsável
+```
+
+```console
+$ ./disclose.sh --policy
+[!] achados só são divulgados após correção e consentimento do alvo
+```
+
+## 🧰 Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,go,java,spring,postgres,mongodb,docker,git,py,linux,bash" alt="stack" />
 
 </div>
+
+```bash
+$ ls ~/arsenal
+ghidra  radare2  frida  burp  wireshark  pwntools  python3  go  node
+```
 
 ## 🚀 Projetos em destaque
 
@@ -83,20 +121,18 @@ $ _
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**graficos-precos**](https://github.com/2jjj/graficos-precos) | Plotagem e análise de preços de celulares | `Jupyter` |
 | [**reverselab**](https://github.com/2jjj/reverselab) | Reverse engineering toolkit — strings, PE analysis, AES-GCM/XOR decrypt | `Python` |
+| [**graficos-precos**](https://github.com/2jjj/graficos-precos) | Plotagem e análise de preços de celulares | `Jupyter` |
 
-## 🔬 Segurança & Engenharia Reversa
+## 🔬 reverselab
 
-> **reverselab** — toolkit de análise de binários: strings, infos de PE com **entropia por seção**, decrypt **AES-256-GCM** e **XOR**, e `--raw-eval` pra localizar blobs de alta entropia.
+> Toolkit de análise de binários: strings, infos de PE com **entropia por seção**, decrypt **AES-256-GCM** e **XOR**, e `--raw-eval` pra localizar blobs de alta entropia.
 
 ```bash
 python reverselab.py alvo.exe --pe            # seções, entrypoint, entropia
 python reverselab.py blob.bin --aesgcm ct key # decrypt AES-256-GCM
 python reverselab.py verify.bin --raw-eval    # localiza blob escondido
 ```
-
-Fluxo: `localizar o blob → medir entropia → identificar nonce/key → AES/XOR → payload limpo`. Aplico em análise de malware, CTF e auditoria de software.
 
 ## 📊 Stats
 
@@ -127,6 +163,10 @@ Fluxo: `localizar o blob → medir entropia → identificar nonce/key → AES/XO
 > 💼 Empreendedor há **3 anos** à frente de uma loja de artigos de alto padrão — roupas, tênis e acessórios de luxo. Produto, vendas e tecnologia no mesmo pacote.
 
 ## 📫 Contato
+
+```console
+root@2jjj:~# nc -v contato 2jjj
+```
 
 <div align="center">
 
