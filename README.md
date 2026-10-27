@@ -62,6 +62,11 @@ ghidra  radare2  burp  wireshark  python  go  node  docker
 | [**goprices**](https://github.com/2jjj/goprices) | Bot que monitora preços e avisa no Discord | `Go` |
 | [**scraper**](https://github.com/2jjj/scraper) | Scraper de badges de usuários de um servidor | `Python` |
 
+### Produto em produção
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Kamikaze Bot** (privado) | Sistema de vendas no WhatsApp para uma loja de artes marciais: catálogo de 219 produtos sincronizado, preços e estoque, pedidos personalizados, inbox com atendimento humano, Kanban e métricas. Fluxo completo do "oi" ao pedido registrado. [Case study](https://www.pedrosakamoto.site/projetos/kamikaze-bot) | `TypeScript` `Node.js` `SQLite` `Playwright` `Docker` |
+
 ## Segurança (OpSec)
 
 - **Recon e análise**: fingerprinting, mapeamento de superfície, análise de autenticação/sessão, entropia por seção em binários.
