@@ -2,84 +2,74 @@
 
 ```console
 root@2jjj:~# whoami
-pedro sakamoto — full stack dev & segurança — ribeirão preto, br
+pedro sakamoto — desenvolvedor back-end — ribeirão preto, br
+cursando engenharia da computação na unaerp
 ```
 
-Desenvolvedor **Full Stack** com front-end forte (**React / Next.js / TypeScript**) e back-end em **Go**, **Node.js** e **Java**. Também trabalho com **segurança** — recon e engenharia reversa em escopo autorizado. **Aberto a oportunidades** (remoto ou presencial), disponibilidade imediata.
+Construo back-end e coloco em produção. **Node.js**, **Go** e **PostgreSQL** no dia a dia, com TypeScript e React quando a interface precisa existir. Gosto da parte que não aparece no print: modelagem de dados, integração de pagamento, fila, teste automatizado e o deploy que não quebra.
 
-Programo desde 2021, já coloquei bots em produção rodando em mais de 1.000 servidores e, há 3 anos, toco uma loja própria — produto, vendas e tecnologia no mesmo pacote.
+Três sistemas meus estão rodando agora: um bot de vendas no WhatsApp para uma loja de artigos marciais, um SaaS de gestão de importações com checkout e conciliação e um dashboard que busca vagas e organiza candidaturas. Todos com case study público — arquitetura, decisões e o que deu errado no caminho.
 
-📍 Ribeirão Preto, SP &nbsp;·&nbsp; 💼 Aberto a oportunidades &nbsp;·&nbsp; ⚡ Disponibilidade imediata
+📍 Ribeirão Preto, SP &nbsp;·&nbsp; 💼 Aberto a estágio e posição júnior &nbsp;·&nbsp; 🌎 Remoto ou presencial
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/)
+[![Portfólio](https://img.shields.io/badge/pedrosakamoto.site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pedrosakamoto.site)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-PDF-1F6FEB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.pedrosakamoto.site/curriculo/curriculo-pedro-sakamoto.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosakamoto27@gmail.com)
-[![Site](https://img.shields.io/badge/pedrosakamoto.site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pedrosakamoto.site)
 
 ---
 
+## Em produção
+
+| Sistema | O que resolve | Stack |
+|---|---|---|
+| [**Kamikaze Bot**](https://www.pedrosakamoto.site/projetos/kamikaze-bot) | Vendas por WhatsApp para loja de artes marciais. Catálogo de **219 produtos e 568 variações** sincronizado da loja real, pedido do "oi" até o registro, painel com inbox, Kanban e métricas. **63 testes** automatizados. | `TypeScript` `Node.js` `SQLite` `Playwright` |
+| [**ImportFlow**](https://www.pedrosakamoto.site/projetos/importflow) | SaaS de gestão de importações. **2 gateways** de pagamento (Stripe com cartão, Pix e boleto, e InfinitePay), webhooks assinados, conciliação, painel admin e provisionamento de usuário. | `React` `TypeScript` `Supabase` `Edge Functions` |
+| [**StartANewDay**](https://www.pedrosakamoto.site/projetos/startanewday) | Dashboard que agrega **4 fontes** de vagas, calcula compatibilidade com o perfil e organiza candidaturas. Automação de navegador com Playwright e API em Express. | `Node.js` `Express` `Playwright` `React` |
+
 ## Stack
 
-| Área | Tecnologias |
+| Área | O que uso |
 |---|---|
-| Front-end | React, Next.js, TypeScript, JavaScript, Tailwind, Vite |
-| Back-end | Go, Node.js, Java (Spring Boot) |
-| Dados | PostgreSQL, MongoDB, Supabase |
-| IA | integração com LLMs, automações, agentes |
-| Segurança | recon, engenharia reversa, análise de PE, YARA/Sigma, forense |
-| DevOps | Docker, CI/CD, Git |
+| Back-end | Node.js, Express, Go, APIs REST |
+| Dados | PostgreSQL, SQLite, modelagem relacional, migrações |
+| Front-end | React, TypeScript, Vite, Tailwind |
+| Qualidade | Vitest, testes de integração, lint, CI no GitHub Actions |
+| Infra | Docker, Vercel, Supabase, GitHub Actions |
+| Segurança | recon, engenharia reversa defensiva, análise de PE, YARA/Sigma |
 
 ```bash
 $ ls ~/arsenal
-ghidra  radare2  burp  wireshark  python  go  node  docker
+node  go  postgres  docker  python  ghidra  wireshark  burp
 ```
 
-## Projetos
+## Projetos abertos
 
-### Segurança e engenharia reversa
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**reconkit**](https://github.com/2jjj/reconkit) | Toolkit de recon para bug bounty e testes autorizados: subdomínios (crt.sh + brute DNS), port scan com banner, HTTP probe, checagem de headers de segurança, caça a segredos em JS/HTML e fingerprinting. Stdlib-only. | `Python` |
+| [**reconkit**](https://github.com/2jjj/reconkit) | Toolkit de recon para bug bounty e testes autorizados: subdomínios, port scan com banner, HTTP probe, headers, caça a segredos e fingerprinting. Sem dependência externa. | `Python` |
+| [**cron-help**](https://github.com/2jjj/cron-help) | CLI que traduz expressão cron para texto em português e lista as próximas execuções. | `JavaScript` |
+| [**gofetch**](https://github.com/2jjj/gofetch) | Cliente HTTP em Go sem dependências, com retry, backoff exponencial e rate limit. | `Go` |
+| [**prism**](https://github.com/2jjj/prism) | Extrai a paleta dominante de uma imagem e exporta em hex, JSON, CSS ou Tailwind. | `Python` |
+| [**use-debounce**](https://github.com/2jjj/use-debounce) | Hooks React: debounce, throttle, debounced callback, interval e timeout. | `TypeScript` |
+| [**treino-seguro-60**](https://github.com/2jjj/treino-seguro-60) | Página de vendas e guia em PDF para um programa de treino de força para maiores de 60 anos. | `HTML` |
+| [**detoxdigital**](https://github.com/2jjj/detoxdigital) | Back-end Spring Boot e extensão do Chrome que mede tempo em sites distrativos e avisa quando voltar ao foco. | `Java` |
+| [**BadgesPlus**](https://github.com/2jjj/BadgesPlus) | Plugin para Vesktop/Vencord com badges de perfil e busca de membros por badge, com instalador automático. | `TypeScript` |
 
-> Na prática: já analisei um stealer real (PE empacotado com PyInstaller, C2 via Discord, injeção com `CreateRemoteThread`) em ambiente isolado e escrevi o reporte defensivo com regras **YARA** e **Sigma** e script de remediação. Tudo em escopo próprio.
+## Segurança
 
-### Bibliotecas e ferramentas
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**gofetch**](https://github.com/2jjj/gofetch) | Cliente HTTP em Go, sem dependências, com retry, backoff exponencial e rate limit | `Go` |
-| [**prism**](https://github.com/2jjj/prism) | Extrai a paleta dominante de uma imagem e exporta em hex, JSON, CSS ou Tailwind | `Python` |
-| [**use-debounce**](https://github.com/2jjj/use-debounce) | Hooks React: debounce, throttle, intervalo e timeout | `TypeScript` |
+Entrei por curiosidade e ficou: leio binário, mapeio superfície e escrevo detecção. Já analisei um stealer real (PE empacotado com PyInstaller, C2 via Discord, injeção com `CreateRemoteThread`) em ambiente isolado e publiquei o reporte defensivo com regras **YARA** e **Sigma** e script de remediação.
 
-### Produto e produtividade
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**detoxdigital**](https://github.com/2jjj/detoxdigital) | Back-end Spring Boot + extensão do Chrome que monitora sites distrativos e avisa quando voltar ao foco | `Java` `Spring Boot` |
-| [**FinTrack**](https://github.com/2jjj/FinTrack) | Controle de gastos com apoio de IA | `TypeScript` |
-| [**BadgesPlus**](https://github.com/2jjj/BadgesPlus) | Plugin para Vesktop/Vencord: badges de perfil ao lado do nome e busca membros por badge | `TypeScript` |
+Só em escopo autorizado — CTF, lab próprio e programa de bug bounty. Divulgação responsável, sempre.
 
-### Bots e automação
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**goprices**](https://github.com/2jjj/goprices) | Bot que monitora preços e avisa no Discord | `Go` |
-| [**scraper**](https://github.com/2jjj/scraper) | Scraper de badges de usuários de um servidor | `Python` |
+## Trajetória
 
-### Produto em produção
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Kamikaze Bot** (privado) | Sistema de vendas no WhatsApp para uma loja de artes marciais: catálogo de 219 produtos sincronizado, preços e estoque, pedidos personalizados, inbox com atendimento humano, Kanban e métricas. Fluxo completo do "oi" ao pedido registrado. [Case study](https://www.pedrosakamoto.site/projetos/kamikaze-bot) | `TypeScript` `Node.js` `SQLite` `Playwright` `Docker` |
-
-## Segurança (OpSec)
-
-- **Recon e análise**: fingerprinting, mapeamento de superfície, análise de autenticação/sessão, entropia por seção em binários.
-- **Engenharia reversa defensiva**: unpacking, identificação de família, indicadores de compromisso (IOCs), resposta a incidente.
-- **Disciplina**: só atuo em **escopo autorizado** — CTF, labs próprios e programas de bug bounty. Divulgação responsável.
-
-## Um pouco mais
-
-- **Empreendedor** há 3 anos, à frente de uma loja de artigos de alto padrão (roupas, tênis e acessórios). Produto, atendimento, vendas e a parte técnica — tudo junto.
-- Curto aprender na prática: segurança, automação e IA são onde mais me divirto construindo.
+- **Engenharia da Computação** na Unaerp — em andamento.
+- **3 anos** à frente de uma loja de artigos de alto padrão: produto, atendimento, vendas e a parte técnica, tudo junto. Foi onde aprendi que sistema bom é o que aguenta o dia inteiro de cliente de verdade.
+- Programo desde 2021. Comecei por bot de Discord, passei por ferramenta interna e cheguei em produto com pagamento e estoque.
 
 ## Contato
 
-- 📧 pedrosakamoto27@gmail.com
+- 📧 [pedrosakamoto27@gmail.com](mailto:pedrosakamoto27@gmail.com)
 - 💼 [linkedin.com/in/pedro-sakamoto-3b94091a1](https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/)
-- 🌐 [pedrosakamoto.site](https://pedrosakamoto.site)
+- 🌐 [pedrosakamoto.site](https://www.pedrosakamoto.site) · [currículo em PDF](https://www.pedrosakamoto.site/curriculo/curriculo-pedro-sakamoto.pdf)
