@@ -72,4 +72,4 @@ Só em escopo autorizado — CTF, lab próprio e programa de bug bounty. Divulga
 
 - 📧 [pedrosakamoto27@gmail.com](mailto:pedrosakamoto27@gmail.com)
 - 💼 [linkedin.com/in/pedro-sakamoto-3b94091a1](https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/)
-- 🌐 [pedrosakamoto.site](https://www.pedrosakamoto.site) · [currículo em PDF](https://www.pedrosakamoto.site/curriculo/curriculo-pedro-sakamoto.pdf)
+- 🌐 [pedrosakamoto.site](https://www.pedrosakamoto.site) · [currículo em PDF](https://www.pedrosakamoto.site/curriculo/curriculo-pedro-sakamoto.pdf) · [código do site](https://github.com/2jjj/portfolio)
