@@ -6,7 +6,7 @@ pedro sakamoto — desenvolvedor back-end — ribeirão preto, br
 cursando engenharia da computação na unaerp
 ```
 
-Construo back-end e coloco em produção. **Node.js**, **Go** e **PostgreSQL** no dia a dia, com TypeScript e React quando a interface precisa existir. Gosto da parte que não aparece no print: modelagem de dados, integração de pagamento, fila, teste automatizado e o deploy que não quebra.
+Construo back-end e coloco em produção. **TypeScript**, **React**, **Node.js** e **PostgreSQL** no dia a dia, com **Java** e **Spring Boot** no negócio e **Docker** no deploy. Gosto da parte que não aparece no print: modelagem de dados, integração de pagamento, fila, teste automatizado e o deploy que não quebra.
 
 Três sistemas meus estão rodando agora: um bot de vendas no WhatsApp para uma loja de artigos marciais, um SaaS de gestão de importações com checkout e conciliação e um dashboard que busca vagas e organiza candidaturas. Todos com case study público — arquitetura, decisões e o que deu errado no caminho.
 
