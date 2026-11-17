@@ -10,7 +10,7 @@ Construo back-end e coloco em produção. **Node.js**, **Go** e **PostgreSQL** n
 
 Três sistemas meus estão rodando agora: um bot de vendas no WhatsApp para uma loja de artigos marciais, um SaaS de gestão de importações com checkout e conciliação e um dashboard que busca vagas e organiza candidaturas. Todos com case study público — arquitetura, decisões e o que deu errado no caminho.
 
-📍 Ribeirão Preto, SP &nbsp;·&nbsp; 💼 Aberto a estágio e posição júnior &nbsp;·&nbsp; 🌎 Remoto ou presencial
+📍 Ribeirão Preto, SP &nbsp;·&nbsp; 💼 Aberto a estágio / júnior (13h–19h, seg–sex) e a freela de SaaS, bots de WhatsApp e APIs com Pix &nbsp;·&nbsp; 🌎 Remoto ou presencial
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/)
 [![Portfólio](https://img.shields.io/badge/pedrosakamoto.site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pedrosakamoto.site)
@@ -26,6 +26,8 @@ Três sistemas meus estão rodando agora: um bot de vendas no WhatsApp para uma 
 | [**Kamikaze Bot**](https://www.pedrosakamoto.site/projetos/kamikaze-bot) | Vendas por WhatsApp para loja de artes marciais. Catálogo de **219 produtos e 568 variações** sincronizado da loja real, pedido do "oi" até o registro, painel com inbox, Kanban e métricas. **63 testes** automatizados. | `TypeScript` `Node.js` `SQLite` `Playwright` |
 | [**ImportFlow**](https://www.pedrosakamoto.site/projetos/importflow) | SaaS de gestão de importações. **2 gateways** de pagamento (Stripe com cartão, Pix e boleto, e InfinitePay), webhooks assinados, conciliação, painel admin e provisionamento de usuário. | `React` `TypeScript` `Supabase` `Edge Functions` |
 | [**StartANewDay**](https://www.pedrosakamoto.site/projetos/startanewday) | Dashboard que agrega **4 fontes** de vagas, calcula compatibilidade com o perfil e organiza candidaturas. Automação de navegador com Playwright e API em Express. | `Node.js` `Express` `Playwright` `React` |
+
+**Em busca ativa por vaga ou freela:** central em [pedrosakamoto.site/vagas](https://www.pedrosakamoto.site/vagas) — fontes públicas e 99Freelas, ranqueadas pelo meu perfil. O código fica privado enquanto o projeto está fechado em manutenção.
 
 ## Stack
 
@@ -69,6 +71,8 @@ Só em escopo autorizado — CTF, lab próprio e programa de bug bounty. Divulga
 - Programo desde 2021. Comecei por bot de Discord, passei por ferramenta interna e cheguei em produto com pagamento e estoque.
 
 ## Contato
+
+- 🤝 [99freelas.com.br/user/pedro-sakamoto](https://99freelas.com.br/user/pedro-sakamoto) — SaaS, automação, bots de WhatsApp e APIs com Pix; proposta e uma pergunta técnica sem custo.
 
 - 📧 [pedrosakamoto27@gmail.com](mailto:pedrosakamoto27@gmail.com)
 - 💼 [linkedin.com/in/pedro-sakamoto-3b94091a1](https://www.linkedin.com/in/pedro-sakamoto-3b94091a1/)
